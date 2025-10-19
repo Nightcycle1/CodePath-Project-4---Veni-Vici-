@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://i.imgur.com/ygNpmKf.gif" alt="Demo" width="600"/>
+<img src="https://i.imgur.com/ygNpmKf.gif" alt="Demo" width="300"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
