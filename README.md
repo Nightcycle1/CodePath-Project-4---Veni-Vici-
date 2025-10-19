@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/ygNpmKf.gif" width="600" alt="Demo animation">
+![Demo](https://i.imgur.com/ygNpmKf.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
